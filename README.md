@@ -61,16 +61,16 @@ Constantemente expandindo minha base de conhecimento em:
 - 🏗️ **Estruturas de Dados** - Fundamentos de programação
 
 ---
-## 🎓 Formação
+## 🎓 Formação e Experiência
 
-**Graduação em Tecnologia da Informação** - UNIVESP  
+**Graduação em andamento**: Tecnologia da Informação - UNIVESP  
 **Experiência anterior:** Nutricionista - Atenção Primária à Saúde
 
 ## 🤝 Vamos Conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elisabeth-aparecida-ribeiro/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elisabethribeiro)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elisabethapr@outlook.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elisabeth.aparecida.ribeiro@gmail.com)
 
 ---
 

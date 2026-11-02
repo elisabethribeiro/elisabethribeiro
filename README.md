@@ -1,6 +1,6 @@
 # 📈 Bem-vindo ao meu repositório!
 
-Profissional em transição de carreira para **Análise de Dados**, com experiência em **Atenção Primária à Saúde**. Atualmente cursando **Tecnologia da Informação** na Univesp e me aprofundando em análise, interpretação e visualização de dados, além de aplicação de IA para otimizar processos.
+Profissional em transição de carreira para **Ciências de Dados**, com experiência em **Atenção Primária à Saúde**. Atualmente cursando **Tecnologia da Informação** na Univesp e me aprofundando em análise, interpretação e visualização de dados, além de aplicação de IA para otimizar processos.
 
 ### 🎯 O que me motiva?
 - Transformar dados em **insights**

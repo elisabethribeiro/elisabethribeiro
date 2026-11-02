@@ -17,6 +17,11 @@ A experiência em **Atenção Primária à Saúde** me proporciona:
 
 ## 📊 Projetos em Destaque
 
+### Sistema de Mitigação de Falsos Abandonos no Manejo de Condições Crônicas na APS (Saúde Suplementar)
+Pipeline de análise de dados e suporte à decisão no ponto de cuidado para resgatar usuários indevidamente classificados como inativos em um serviço de Atenção Primária. Técnicas utilizadas: geração de dados sintéticos, cruzamento de bases, regras de negócio em saúde populacional e automação em lote.
+- **Stack:** Python (Pandas, NumPy, Matplotlib, Faker), Google Apps Script (JavaScript) e Google Sheets
+- [📂 Acesse o projeto](https://github.com/elisabethribeiro/projeto_aps_abandono)
+  
 ### 🎵 Análise de Popularidade de Músicas no Spotify
 Análise exploratória dos fatores que influenciam a popularidade de músicas. Técnicas utilizadas: limpeza de dados, estatística descritiva e visualizações.
 - **Stack:** Python (Pandas, Matplotlib, Seaborn, NumPy)
